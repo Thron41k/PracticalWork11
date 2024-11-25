@@ -1,1 +1,1 @@
-# PracticalWork11-master
+# Для запуска бота нужно указать токен Telegram API в параметре -a или --apikey
